@@ -42,7 +42,7 @@ Replace the values in **.env.example** with your values and rename this file to 
 Get up and running with `make deploy`:
 
 ```shell
-$ git clone https://github.com/hackersandslackers/plotlydash-flask-tutorial.git
+$ git clone https://github.com/SrahSrah/shernandez43-individual-project
 $ cd plotlydash-flask-tutorial
 $ make deploy
 ```
