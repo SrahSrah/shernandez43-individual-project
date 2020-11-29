@@ -45,8 +45,4 @@ Get up and running with `make deploy`:
 $ git clone https://github.com/hackersandslackers/plotlydash-flask-tutorial.git
 $ cd plotlydash-flask-tutorial
 $ make deploy
-``` 
-
------
-
-**Hackers and Slackers** tutorials are free of charge. If you found this tutorial helpful, a [small donation](https://www.buymeacoffee.com/hackersslackers) would be greatly appreciated to keep us in business. All proceeds go towards coffee, and all coffee goes towards more content.
+```
