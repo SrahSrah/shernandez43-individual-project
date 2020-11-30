@@ -1,4 +1,6 @@
 """Initialize Flask app."""
+import os
+os.system('pip install flask')
 from flask import Flask
 from flask_assets import Environment
 
